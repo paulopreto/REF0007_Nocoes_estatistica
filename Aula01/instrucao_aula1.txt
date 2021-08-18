@@ -1,0 +1,2 @@
+Turm@ vejam como usar o Google Colab.
+- Usaremos esta ferramenta para aulas.
