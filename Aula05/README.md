@@ -3,3 +3,5 @@
 
 * Link do Colab
 https://colab.research.google.com/drive/1s0StKd-zAqqU0TKpIWUAfdOnZzeiyyce?usp=sharing
+
+* Tem tarefa na aula 5
